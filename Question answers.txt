@@ -1,0 +1,7 @@
+Questions:
+
+Which git command would you use to:
+
+View the history of the repository: 		git log
+If there are outstanding commits to do: 		git status to check, and git commit to commit the changes
+Start a new repository:					git init	
